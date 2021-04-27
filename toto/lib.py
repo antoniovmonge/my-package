@@ -2,7 +2,7 @@ from termcolor import colored
 
 def whats_my_name():
     
-    return 'Hello my name is Toni'
+    return 'Hello my name is Toni_2'
 
 def who_am_i():
     
